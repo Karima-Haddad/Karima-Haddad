@@ -1,6 +1,29 @@
-# 💫 About Me:
-## About Me<br><br>I am a Computer Engineering student passionate about Artificial Intelligence, Cloud Computing, and emerging technologies. My academic journey evolved toward AI, machine learning, and intelligent systems.<br><br>I enjoy exploring new technologies, continuously developing my technical skills, and applying what I learn through practical projects. I am particularly interested in AI-powered applications, cloud-native solutions, automation, data-driven systems, and software development.<br><br>Beyond my studies, I regularly read books and articles on technology, business, innovation, personal development, and other topics that help me broaden my knowledge and perspective. I believe that continuous learning is essential in the rapidly evolving tech industry.<br><br>I have worked on projects involving web development, mobile development, databases, OCR systems, machine learning, and AI applications. I am always eager to take on new challenges, collaborate with others, and learn from real-world experiences.<br><br>Currently, I am expanding my knowledge in Artificial Intelligence, Cloud Computing, DevOps practices, and modern software engineering methodologies while seeking opportunities to grow both technically and professionally.<br>
+## 💫 About Me:
 
+```python
+class Engineer:
+    def __init__(self):
+        self.role     = "Computer Engineering Student"
+        self.focus    = ["AI / ML", "Cloud", "DevOps"]
+        self.building = ["OCR systems", "AI-powered apps", "Full-stack platforms"]
+        self.learning = "everything that ships to production 🚀"
+        self.fuel     = ["books", "curiosity", "coffee ☕"]
+
+    def next_step(self):
+        return "Looking for challenges where AI meets the cloud."
+
+me = Engineer()
+print(me.next_step())
+```
+
+- 🤖 Turning ML models into real, usable products
+- ☁️ Exploring cloud-native architectures & automation
+- 🔧 Web, mobile, databases, OCR : I like the full stack
+- 📚 Reading on tech, business & innovation
+
+> *"Ship it, break it, learn from it, repeat."*
+
+📫 **Let's collaborate**, open to projects, internships and new challenges.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Karima Haddad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Karima_haddad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Karima Haddad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karimahaddad827@gmail.com) 
